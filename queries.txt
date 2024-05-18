@@ -1,0 +1,3 @@
+{"order_date": { "$gt": "2023-10-31" }}
+{"name": "john"}
+{"email": "janedoe@example.com"}
